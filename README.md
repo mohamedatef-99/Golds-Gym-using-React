@@ -2,11 +2,12 @@
 
 This project is a web application developed using React. It helps users explore various exercises, find details about them, and watch associated videos.
 
-[![Watch the Demo]
+## Demo
 
 https://github.com/mohamedatef-99/Golds-Gym/assets/60486913/99a34fb0-76b8-4d59-a6b3-ccdcad88e12a
 
-
+## Website Link
+https://mt-goldgym.netlify.app/
 
 
 ## Features
